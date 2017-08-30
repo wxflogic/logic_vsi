@@ -1,7 +1,7 @@
 # Summary
 
 * [重译说明](README.md)
-* [序](preface.md)
+* [前言](preface.md)
 * [第1章：有效性：从什么可以推出什么？](/chapter01.md)
 * [第2章：真值函数——抑或不是？](/chapter02.md)
 * [第3章：名称与量词：空无是某个东西吗？](/chapter03.md)
