@@ -1,3 +1,61 @@
 {
-    "plugins": ["mathjax"] 
+    "title": "yangfch3's Diary",
+    "author": "_",
+    "description": "_",
+    "extension": null,
+    "generator": "website", // 使用的编译模式
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "yangfch3's github": "http://github.com/yangfch3"
+        }
+    },
+    "output": null, // 自定义指定编译输出目的文件夹
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "mobi": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },  // 用户自定义的样式，编译时对应的
+    "plugins": ["disqus","codeblock-filename","mathjax"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "hub7diary"
+        }
+    },
+    "variables": {}
 }
