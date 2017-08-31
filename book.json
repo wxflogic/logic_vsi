@@ -1,6 +1,6 @@
 {
-    "generator": "website", // 使用的编译模式
-    "output": null, // 自定义指定编译输出目的文件夹
+    "generator": "website",
+    "output": null,
     "pdf": {
         "fontSize": 12,
         "footerTemplate": null,
