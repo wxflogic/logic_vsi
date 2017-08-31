@@ -6,7 +6,7 @@
 
 
 $$
-\dfrac{\text{女王富有。女王不富有。}}{\text{猪会飞。}}
+\dfrac{\mbox{女王富有。女王不富有。}}{\mbox{猪会飞。}}
 $$
 
 
@@ -16,13 +16,13 @@ $$
 
 
 $$
-\dfrac{\text{女王富有。}}{\text{女王富有或猪会飞。}}
+\dfrac{\mbox{女王富有。}}{\mbox{女王富有或猪会飞。}}
 $$
 
 
 
 $$
-\dfrac{\text{女王富有或猪会飞。女王不富有。}}{\text{猪会飞}}
+\dfrac{\mbox{女王富有或猪会飞。女王不富有。}}{\mbox{猪会飞}}
 $$
 
 
@@ -32,7 +32,7 @@ $$
 
 
 $$
-\dfrac{\text{女王富有}}{\dfrac{\text{女王富有或猪会飞。女王不富有。}}{\text{猪会飞。}}}
+\dfrac{\mbox{女王富有}\qquad\qquad\qquad}{\dfrac{\mbox{女王富有或猪会飞。女王不富有。}}{\mbox{猪会飞。}}}
 $$
 
 
