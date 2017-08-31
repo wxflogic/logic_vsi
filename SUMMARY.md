@@ -16,7 +16,7 @@
 * [第12章：逆概率：你无法不在乎它！](/chapter12.md)
 * [第13章：决策论：远大期望](/chapter13.md)
 * [第14章：一点历史与进阶阅读指引](/chapter14.md)
-* [术语表](glossary.md)
-* [问题](problems.md)
-* [参考文献](bibliography.md)
+* [术语表](/glossary.md)
+* [问题](/problems.md)
+* [参考文献](/bibliography.md)
 
