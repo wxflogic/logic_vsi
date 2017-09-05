@@ -40,10 +40,6 @@
 $$
 \dfrac{q\qquad\quad}{\dfrac{q\lor p\qquad \neg q}{p}}
 $$
-    $$q$$
-    ———————————
-    $$q\lor p$$
-    
 
 关于这个推断我们有什么要说的呢？
 
