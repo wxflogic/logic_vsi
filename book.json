@@ -1,7 +1,4 @@
 {
-    "plugins": ["mathjax"]
-}
+    "plugins": ["mathjax"],["-lunr"]
 
-{
-    "plugins": ["-lunr"]
 }
