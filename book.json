@@ -1,8 +1,3 @@
 {
-    "plugins": ["mathjax"],
-    "pluginsConfig": {
-        "lunr": {
-            "maxIndexSize": 200000
-        }
-    }
+    "plugins": ["mathjax","-lunr"]
 }
