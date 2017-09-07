@@ -20,4 +20,4 @@
 
 ——我们还可以加上，是全知、全能、道德完美的，如此等等。这句话看上去当然为真。为了让事情更清晰明了，假设我们把上帝具有的清单上的性质记为 $$P_{1},P_{2},\ldots,P_{n}$$，其中最后一个，$$P_{n}$$ 是存在性。“上帝”的定义是：$$\iota x(xP_1\land\ldots\land xP_n)$$。让我们把它记作 $$\gamma$$。这样，那句俏皮话就是 $$\gamma P_1\land\ldots\land\gamma P_n$$（由此可以推出$$\gamma P_n$$）。
 
-这是某个更一般的结论的特例：**那个满足某某条件的东西满足恰好那个条件**（_the thing satisfying such and such a condition, satisfies that very condition_）。这常被称为**刻画原则**（_Characterization Principle_）（事物具有刻画它的那些性质）。
+它是某个更一般的结论的特例：**那个满足某某条件的东西满足恰好那个条件**（_the thing satisfying such and such a condition, satisfies that very condition_）。这常被称作**刻画原则**（_Characterization Principle_）（事物具有刻画它的那些性质）。我们将该原则缩写为 CP。我们已经见过 CP 的一个例子：“第一个登上月球的人是人且他第一个登上月球”，$$\mu M\land\mu F$$。更一般的，如果我们取某个摹状词 $$\iota xc_x$$，然后把条件 $$c_x$$ 中 $$x$$ 的每一次出现都替换为该摹状词，我们就得到了 CP 的一个特例。
