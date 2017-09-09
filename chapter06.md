@@ -18,6 +18,7 @@ $$\Box$$ 和 $$\Diamond$$ 称作**模态算子**（_modal operators_），因为
 <img src=/pics/situation1.png/>
 </div>
 
+
 这种解释给了我们一种对含模态算子的推断进行分析的方法。比如，考虑推断：
 
 $$
@@ -29,6 +30,7 @@ $$
 <div style="text-align: center">
 <img src=/pics/situation2.png/>
 </div>
+
 
 $$a$$ 在 $$s_1$$ 为 $$T$$，因此，$$\Diamond a$$ 在 $$s$$ 中为真。类似的，$$b$$ 在 $$s_2$$ 为 $$T$$，因此，$$\Diamond b$$ 在 $$s$$ 中为真。但没有一个关联世界中 $$a\land b$$ 为真，因此 $$\Diamond(a\land b)$$ 在 $$s$$ 中不为真。
 
