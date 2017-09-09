@@ -2,7 +2,7 @@
     "plugins": ["katex"],
     "pdf": {
       "pageNumbers": true,
-      "fontFamily": "Source Han Serif SC",
+      "fontFamily": "Noto Serif CJK SC",
       "fontSize": 11,
       "paperSize": "b5",
       "margin": {
