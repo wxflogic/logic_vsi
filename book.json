@@ -1,5 +1,5 @@
 {
-    "plugins": ["katex","Autocover"],
+    "plugins": ["katex","autocover"],
     "pdf": {
       "pageNumbers": true,
       "fontFamily": "SourceHanSerifSC",
