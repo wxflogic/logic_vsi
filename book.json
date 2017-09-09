@@ -2,6 +2,7 @@
     "plugins": ["katex"],
     "pdf": {
       "pageNumbers": true,
+      "fontFamily": Noto Serif CJK,
       "fontSize": 11,
       "paperSize": "b5",
       "margin": {
