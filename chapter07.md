@@ -35,6 +35,10 @@ $$\neg(a\land\neg c)$$ 常被记作 $$a\supset c$$，称为**实质条件句**�
 
 而这个推断不是有效的。例如，如果 $$a$$ 在某个情形 $$s$$ 为 $$F$$，这足以使得前提在 $$s$$ 为真。但这并没有告诉我们在与 $$s$$ 关联的可能情形中 $$a$$ 和 $$c$$ 会如何表现。完全有可能在其中一个可能情形，比方说 $$s'$$ 中，$$a$$ 为真而 $$c$$ 不为真，如图：
 
+<div style="text-align: center">
+<img src=/pics/situation3.png/>
+</div>
+
 ![](/pics/situation3.png)
 
 因此，$$a\to c$$ 在 $$s$$ 不为真。
