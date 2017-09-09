@@ -18,8 +18,6 @@ $$\Box$$ 和 $$\Diamond$$ 称作**模态算子**（_modal operators_），因为
 <img src=/pics/situation1.png/>
 </div>
 
-![](/pics/situation1.png)
-
 这种解释给了我们一种对含模态算子的推断进行分析的方法。比如，考虑推断：
 
 $$
