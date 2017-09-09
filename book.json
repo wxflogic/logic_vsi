@@ -1,4 +1,5 @@
 {
+    "author": "Graham Priest著，wxflogic译",
     "plugins": ["katex","autocover"],
     "pdf": {
       "pageNumbers": true,
