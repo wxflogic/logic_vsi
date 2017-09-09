@@ -5,10 +5,10 @@
       "fontSize": 11,
       "paperSize": "b5",
       "margin": {
-        "right": 15,
-        "left": 15,
-        "top": 20,
-        "bottom": 20
+        "right": 25,
+        "left": 25,
+        "top": 30,
+        "bottom": 30
       }
     }
 }
