@@ -2,7 +2,7 @@
     "plugins": ["katex","autocover"],
     "pdf": {
       "pageNumbers": true,
-      "fontFamily": "SourceHanSerifSC",
+      "fontFamily": "Nono Serif CJK",
       "fontSize": 11,
       "paperSize": "b5",
       "margin": {
