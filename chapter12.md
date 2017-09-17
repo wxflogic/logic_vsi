@@ -86,7 +86,27 @@ $$pr(g)$$ 和 $$pr(\neg g)$$ 的值称作**先验概率**（_prior probabilities
 
 R, R, R, R, B
 
-（R 表示红色，B 表示黑色）。你有理由推断这就是那个被做过手脚的轮盘吗？换言之，令 $$c$$ 为大致
+（R 表示红色，B 表示黑色）。你有理由推断这就是那个被做过手脚的轮盘吗？换言之，令 $$c$$ 是大致这样的陈述：这个特定的序列出现，令 $$f$$为陈述：轮盘 $$A$$ 被做过手脚，那么从 $$c$$ 到 $$f$$ 的推断是个好的归纳推断吗？
+
+我们需要知道 $$pr(f\mid c) > pr(\neg f\mid c)$$ 是否成立。使用公式 $$\mathbf{Inv}$$ 将其转换为逆概率之间的关系，我们得到：
+
+$$
+pr(c\mid f)\times\dfrac{pr(f)}{pr(c)} > pr(c\mid \neg f)\times\dfrac{pr(\neg f)}{pr(c)}
+$$
+
+两边同时乘以 $$pr(c)$$ 得到：
+
+$$
+pr(c\mid f)\times pr(f) > pr(c\mid \neg f)\times pr(\neg f)
+$$
+
+它是否为真呢？首先，$$f$$ 和 $$\neg f$$ 的先验概率是多少呢？我们知道要么 $$A$$ 要么 $$B$$ 被作了手脚。我们没有更多的理由相信它就是 $$A$$ 而不是 $$B$$，或者反过来。因此该轮盘是 $$A$$ 的概率是 1/2，是 $$B$$ 的概率也是 1/2。换言之，$$pr(f)=1/2$$ 且 $$pr(\neg f)=1/2$$。因此，我们可以在上面的等式两边消去它们，得到：
+
+$$
+pr(c\mid f) > pr(c\mid \neg f)
+$$ 
+
+给定轮盘被如上描述那样被作了手脚的条件下，观察到由 $$c$$ 陈述的序列的概率 $$pr(c\mid f)$$
 
 
 [^1] 译者注：原文为 You can't be indifferent about it，直译应为“你无法不在乎它”。作者选用 indifferent 这个词有意要达到某种双关效果，因为本章会讨论概率中的一个重要原则——无差别原则，principle of indifference，其中 indifference 是 indifferent 的名词。故中文此处没有采用直译。下一章标题也有类似问题。
