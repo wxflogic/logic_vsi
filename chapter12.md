@@ -8,17 +8,45 @@
 
 现在，显然为真的是，给定 $$g$$ 为真的条件下 $$o$$ 的条件概率远大于给定 $$g$$ 不为真的条件下 $$o$$ 的条件概率：
 
-> 1: $$pr(o\mid g) > pr(o\mid \neg g)$$
+$$1.\ pr(o\mid g) > pr(o\mid \neg g)$$
 
 但这并没有给出我们想要的。$$o$$ 要成为 $$g$$ 的一个好的归纳理由，我们需要给定 $$o$$ 的条件下 $$g$$ 的条件概率大于其否定的条件概率：
 
-> 2: $$pr(g\mid o) > pr(\neg g\mid o)$$
+$$2.\ pr(g\mid o) > pr(\neg g\mid o)$$
 
 而 $$pr(o\mid g)$$ 是高概率并不必然意味着 $$pr(g\mid o)$$ 也是高概率。比如，给定你在野外看见袋鼠的条件下，你在澳大利亚的概率会很高。（任何其他地方，它只能是从动物园跑出来的。）但给定你在澳大利亚的条件下，你在野外看见袋鼠的概率却很低。（我在澳大利亚住了 10 年才看见一只。）
 
-$$pr(o\mid g)$$ 和 $$pr(g\mid o)$$ 称为**（互）逆概率**（_inverse probabilities_）。我们已经看到的是，设计论证要成立的话，二者之间的关系必须能让我们从 1 得到 2。是否如此呢？事实上，互逆概率之间存在一个非常简单的关系。回想一下上一章的公式 $$\mathbf{CP}$$，根据定义：
+$$pr(o\mid g)$$ 和 $$pr(g\mid o)$$ 称为**（互）逆概率**（_inverse probabilities_）。我们已经看到的是，设计论证要成立的话，二者之间的关系必须能让我们从 $$1$$ 得到 $$2$$。是否如此呢？事实上，互逆概率之间存在一个非常简单的关系。回想一下上一章的公式 $$\mathbf{CP}$$，根据定义：
 
-> $$pr(a\mid b)=pr(a\land b)/pr(b)$$
+$$
+pr(a\mid b)=pr(a\land b)/pr(b)
+$$
+
+因此：
+
+$$3.\ pr(a\mid b)\times pr(b)=pr(a\land b)$$
+
+类似的：
+
+$$
+pr(b\mid a)=pr(b\land a)/pr(a)
+$$
+
+因此：
+
+$$4.\ pr(b\mid a)\times pr(a)=pr(b\land a)$$
+
+但 $$pr(a\land b)=pr(b\land a)$$（因为 $$a\land b$$ 和 $$b\land a$$ 为真的情形完全一样）。这样，由 $$3$$ 和 $$4$$ 可得：
+
+$$
+pr(a\mid b)\times pr(b)=pr(b\mid a)\times pr(a)
+$$
+
+假定 $$pr(b)$$ 不为 0——下面作这样的假定不再说明——我们可以将等式变形得到：
+
+$$\mathbf{Inv}:\ pr(a\mid b)=pr(b\mid a)\times pr(a)/pr(b)$$
+
+
 
 [^1] 译者注：原文为 You can't be indifferent about it，直译应为“你无法不在乎它”。作者选用 indifferent 这个词有意要达到某种双关效果，因为本章会讨论概率中的一个重要原则——无差别原则，principle of indifference，其中 indifference 是 indifferent 的名词。故中文此处没有采用直译。下一章标题也有类似问题。
 
