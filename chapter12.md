@@ -46,7 +46,16 @@ $$
 
 $$\mathbf{Inv}:\ pr(a\mid b)=pr(b\mid a)\times pr(a)/pr(b)$$
 
+这就是互逆概率之间的关系。（要记住这个公式，注意到下面的顺序可能有帮助：等式右边先是 $$b$$，后面跟着 $$a$$，然后是 $$a$$，后面跟着 $$b$$。）
 
+使用 $$\mathbf{Inv}$$ 对 $$1$$ 中的互逆概率进行改写得到：
+
+$$
+pr(g\mid o)\times\dfrac{pr(o)}{pr(g)} > pr(\neg g\mid o)\times\dfrac{pr(o)}{pr(\neg g)}
+$$
+
+两边消去 $$pr(o)$$ 得到}{}
+$$
 
 [^1] 译者注：原文为 You can't be indifferent about it，直译应为“你无法不在乎它”。作者选用 indifferent 这个词有意要达到某种双关效果，因为本章会讨论概率中的一个重要原则——无差别原则，principle of indifference，其中 indifference 是 indifferent 的名词。故中文此处没有采用直译。下一章标题也有类似问题。
 
