@@ -52,8 +52,11 @@ $$
 给定这些值，我们可以算出相关的期望值：
 
 $$
-E(b)=0.1\times 10^2 +0.9\times(-10)\simeq 0\\
-E(\neg b)=0.1\times(-10^6)+0.9\times 10^2\simeq -10^5
+\begin{aligned}
+E(b) & =0.1\times 10^2 +0.9\times(-10)\simeq 0\\
+E(\neg b) & =0.1\times(-10^6)+0.9\times 10^2\simeq -10^5
+
+\end{aligned}
 $$
 
 （$$\simeq$$ 意思是“约等于”。）我应该选择期望值更大的行为，即相信上帝存在。
