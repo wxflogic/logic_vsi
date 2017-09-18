@@ -55,7 +55,6 @@ $$
 \begin{aligned}
 E(b) & =0.1\times 10^2 +0.9\times(-10)\simeq 0\\
 E(\neg b) & =0.1\times(-10^6)+0.9\times 10^2\simeq -10^5
-
 \end{aligned}
 $$
 
