@@ -17,5 +17,5 @@
 15. Sainsbury, R. M. _Paradoxes_ (Cambridge: Cambridge University Press, 2nd edition, 1995).
 16. Sanford, D. H. _If P then Q: Conditionals and the Foundations of Reasoning_ (London: Routledge, 1989).
 17. Skyrms, B. Choice and Chance (Encino, CA: Dickenson Publishing Co.,1975).
-18. Strawson, P. _Introduction to Logical Theory_ (London: Methuen &Co.,1952).
+18. Strawson, P. _Introduction to Logical Theory_ (London: Methuen & Co.,1952).
 19. Williamson, T. _Vagueness_ (London: Routledge, 1994).
