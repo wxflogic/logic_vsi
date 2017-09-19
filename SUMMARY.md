@@ -17,7 +17,7 @@
 * [第11章：概率：缺少参照类的奇怪情形](/chapter11.md)
 * [第12章：互逆概率：你无法忽略其差别！](/chapter12.md)
 * [第13章：决策论：远大期望](/chapter13.md)
-* [第14章：一点历史与进阶阅读指引](/chapter14.md)
+* [第14章：一点历史与进阶阅读](/chapter14.md)
 * [术语表](/glossary.md)
 * [习题](/problems.md)
 * [参考文献](/bibliography.md)
