@@ -21,5 +21,5 @@
 * [术语表](/glossary.md)
 * [习题](/problems.md)
 * [参考文献](/bibliography.md)
-* 习题解答
+* [习题解答](/solution.md)
 
