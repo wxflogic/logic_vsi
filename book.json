@@ -3,7 +3,7 @@
     "pdf": {
       "pageNumbers": true,
       "fontFamily": "Nono Serif CJK",
-      "fontSize": 11,
+      "fontSize": 12,
       "paperSize": "b5",
       "margin": {
         "right": 55,
