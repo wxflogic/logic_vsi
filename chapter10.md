@@ -10,10 +10,8 @@
 
 $$
 \begin{matrix}
-\cfrac{a_{0}\quad a_{0}\to a_{1}}{\qquad\qquad\qquad\cfrac{a_{1}\quad a_{1}\to a_{2}}{a_{2}}}\\
-\\
- & \ddots\\
-\\
+\cfrac{a_{0}\quad a_{0}\to a_{1}}{\qquad\qquad\qquad\cfrac{a_{1}\quad a_{1}\to a_{2}}{a_{2}}} & & \\
+ & \ddots & \\
  &  & \dfrac{a_{k-1}\quad a_{k-1}\to a_{k}}{a_{k}}
 \end{matrix}
 $$
