@@ -6,5 +6,5 @@ Graham Priest 的 Logic: A Very Short Introduction 是牛津通识系列中的�
 
 我本人虽是逻辑学专业出身，在术语翻译方面自信不会出错，但并未从事过文字翻译工作，在其他地方难免错译。故在这里公开译本，以供大家批评指正。
 
-[^1] 这里我推荐 Harry J. Gensler 的 Introduction to Logic。该书第3版（也是目前最新版）的中译本预计于2018年9月面世。
+[^1]: 这里我推荐 Harry J. Gensler 的 Introduction to Logic。该书第3版（也是目前最新版）的中译本预计于2018年9月面世。
 
