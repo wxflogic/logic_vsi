@@ -118,9 +118,13 @@ $$
 
 我请读者自己思考这个例子。我们已经在一章之内讨论够多概率问题了。
 
+---
+
 > 本章要点
 >
 > * $$pr(a\mid b)=pr(b\mid a)\times\dfrac{pr(a)}{pr(b)}$$
 > * 给定若干可能性，若它们之间没有任何相关差别，则它们有相同的概率（无差别原则）。
+
+---
 
 [^1]: 译者注：原文为 You can't be Indifferent About it，直译为：你无法不在乎它。作者选用 indifferent 这个词有意要达到某种双关效果，因为本章会讨论概率中的一个重要原则——无差别原则，Principle of Indifference，其中 Indifference 是 Indifferent 的名词。鉴于这种双关性，此处没有采用直译。下一章标题也有类似情况。
