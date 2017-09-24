@@ -6,7 +6,7 @@ Graham Priest 的 Logic: A Very Short Introduction 是牛津通识系列中的�
 
 我本人虽是逻辑学专业出身，在术语翻译方面自信不会出错，但并未从事过文字翻译工作，在其他地方难免错译。故在这里公开译本，以供大家批评指正。
 
-想要 Fork 该译本的请移步至我的[Github](https://github.com/wxflogic/logic_vsi)。
+想要 Fork 该译本的请移步至我的 [Github](https://github.com/wxflogic/logic_vsi) 仓库（若已在 Github 请忽略）。
 
 ---
 
