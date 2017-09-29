@@ -1,5 +1,5 @@
 {
-    "plugins": ["katex","autocover"],
+    "plugins": ["katex","autocover","donate"],
     "pdf": {
       "pageNumbers": true,
       "fontFamily": "Nono Serif CJK",
@@ -12,4 +12,13 @@
         "bottom": 50
       }
     }
+    "pluginsConfig": {
+        "donate": {
+          "wechat": "/pics/wechat.png",
+          "alipay": "/pics/alipay.png",
+          "title": "默认空",
+          "button": "捐赠",
+          "alipayText": "支付宝捐赠",
+          "wechatText": "微信捐赠"
+        }
 }
