@@ -2,10 +2,10 @@
     "plugins": ["katex","autocover","donate"],
     "pluginsConfig": {
         "donate": {
-          "wechat": "/pics/wechat.png",
-          "alipay": "/pics/alipay.png",
+          "wechat": "pics/wechat.png",
+          "alipay": "pics/alipay.png",
           "title": "",
-          "button": "Donate",
+          "button": "捐赠",
           "alipayText": "支付宝捐赠",
           "wechatText": "微信捐赠"
         }
