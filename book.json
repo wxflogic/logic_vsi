@@ -9,7 +9,7 @@
           "alipayText": "支付宝捐赠",
           "wechatText": "微信捐赠"
         }
-    }
+    },
     "pdf": {
       "pageNumbers": true,
       "fontFamily": "Nono Serif CJK",
