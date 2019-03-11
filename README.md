@@ -10,5 +10,5 @@ Graham Priest 的 Logic: A Very Short Introduction 是牛津通识系列中的�
 
 ---
 
-[^1]: 这里我推荐 Harry J. Gensler 的 Introduction to Logic。该书第 3 版（也是目前最新版）的中译本预计于 2018 年底面世。
+[^1]: 这里我推荐 Harry J. Gensler 的 Introduction to Logic（中译本正在翻译中）。
 
