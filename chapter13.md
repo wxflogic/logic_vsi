@@ -75,7 +75,7 @@ $$
 
 $$
 \begin{aligned}
-E(n) & =0.9\times 10^2 + 0.01\times(-10^6) + 0.01\times(-10^6)\simeq 2\times 10^4\\
+E(n) & =0.9\times 10^2 + 0.01\times(-10^6) + 0.01\times(-10^6)\simeq -2\times 10^4\\
 E(g) & =0.9\times(-10)+0.01\times 10^2 +0.01\times(-10^9)\simeq -10^7\\
 E(a) & = 0.9\times(-10) + 0.01\times(-10^9) + 0.01\times 10^2\simeq -10^7
 \end{aligned}
